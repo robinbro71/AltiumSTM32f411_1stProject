@@ -26,7 +26,7 @@ Below are the schematics for each main component block:
 
 ### STM32F411CEU6
 
-![ICM-42688-P Schematic](images/STM32.webp)
+![STM32F411CEU6 Schematic](images/STM32.webp)
 
 ---
 
@@ -47,6 +47,10 @@ Below are the schematics for each main component block:
 ![BMP280 Schematic](Barometer.webp)
 
 ---
+
+### USB-C
+
+![USB-C Schematic](USB-C.webp)
 
 ## 📂 Included Files
 
