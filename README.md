@@ -10,6 +10,44 @@ This module includes:
 - **3-axis magnetometer**: LIS3MDL (I2C)
 - **Barometer & temperature sensor**: BMP280 (I2C)
 
+
+## 🖼️ PCB 3D Preview
+
+Here’s a 3D render of the PCB:
+
+![PCB 3D Top View](images/PCB.webp)  
+*Top view*
+
+---
+
+## 📊 Schematics
+
+Below are the schematics for each main component block:
+
+### STM32F411CEU6
+
+![ICM-42688-P Schematic](images/STM32.webp)
+
+---
+
+### ICM-42688-P IMU
+
+![ICM-42688-P Schematic](images/IMU.webp)
+
+---
+
+### LIS3MDL Magnetometer
+
+![LIS3MDL Schematic](Magnetometer.webp)
+
+---
+
+### BMP280 Barometer & Temp Sensor
+
+![BMP280 Schematic](Barometer.webp)
+
+---
+
 ## 📂 Included Files
 
 In this repository, you’ll find:
