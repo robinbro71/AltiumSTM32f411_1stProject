@@ -38,19 +38,19 @@ Below are the schematics for each main component block:
 
 ### LIS3MDL Magnetometer
 
-![LIS3MDL Schematic](Magnetometer.webp)
+![LIS3MDL Schematic](images/Magnetometer.webp)
 
 ---
 
 ### BMP280 Barometer & Temp Sensor
 
-![BMP280 Schematic](Barometer.webp)
+![BMP280 Schematic](images/Barometer.webp)
 
 ---
 
 ### USB-C
 
-![USB-C Schematic](USB-C.webp)
+![USB-C Schematic](images/USB-C.webp)
 
 ## 📂 Included Files
 
